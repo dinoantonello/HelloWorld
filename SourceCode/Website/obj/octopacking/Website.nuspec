@@ -1,0 +1,121 @@
+<package>
+  <metadata>
+    <id>Website</id>
+    <version>2.0.0.0</version>
+    <authors>karanjeetsingh</authors>
+    <owners>karanjeetsingh</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Website deployment package, built on 29/04/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" target="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" target="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" target="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" target="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" target="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" target="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" target="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" target="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-icons_222222_256x240.png" target="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-icons_2e83ff_256x240.png" target="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-icons_454545_256x240.png" target="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-icons_888888_256x240.png" target="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\images\ui-icons_cd0a0a_256x240.png" target="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery-ui.css" target="Content\themes\base\jquery-ui.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.accordion.css" target="Content\themes\base\jquery.ui.accordion.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.all.css" target="Content\themes\base\jquery.ui.all.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.autocomplete.css" target="Content\themes\base\jquery.ui.autocomplete.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.base.css" target="Content\themes\base\jquery.ui.base.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.button.css" target="Content\themes\base\jquery.ui.button.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.core.css" target="Content\themes\base\jquery.ui.core.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.datepicker.css" target="Content\themes\base\jquery.ui.datepicker.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.dialog.css" target="Content\themes\base\jquery.ui.dialog.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.progressbar.css" target="Content\themes\base\jquery.ui.progressbar.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.resizable.css" target="Content\themes\base\jquery.ui.resizable.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.selectable.css" target="Content\themes\base\jquery.ui.selectable.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.slider.css" target="Content\themes\base\jquery.ui.slider.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.tabs.css" target="Content\themes\base\jquery.ui.tabs.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\jquery.ui.theme.css" target="Content\themes\base\jquery.ui.theme.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" target="Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" target="Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" target="Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" target="Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" target="Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" target="Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" target="Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" target="Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-icons_222222_256x240.png" target="Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" target="Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-icons_454545_256x240.png" target="Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-icons_888888_256x240.png" target="Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" target="Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery-ui.min.css" target="Content\themes\base\minified\jquery-ui.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.accordion.min.css" target="Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.autocomplete.min.css" target="Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.button.min.css" target="Content\themes\base\minified\jquery.ui.button.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.core.min.css" target="Content\themes\base\minified\jquery.ui.core.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.datepicker.min.css" target="Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.dialog.min.css" target="Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.progressbar.min.css" target="Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.resizable.min.css" target="Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.selectable.min.css" target="Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.slider.min.css" target="Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.tabs.min.css" target="Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\themes\base\minified\jquery.ui.theme.min.css" target="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Global.asax" target="Global.asax" />
+    <file src="F:\Hello_World\SourceCode\Website\Content\Site.css" target="Content\Site.css" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery-1.8.2.js" target="Scripts\jquery-1.8.2.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery-1.8.2.min.js" target="Scripts\jquery-1.8.2.min.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery-ui-1.8.24.js" target="Scripts\jquery-ui-1.8.24.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery-ui-1.8.24.min.js" target="Scripts\jquery-ui-1.8.24.min.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery.unobtrusive-ajax.js" target="Scripts\jquery.unobtrusive-ajax.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery.unobtrusive-ajax.min.js" target="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\knockout-2.2.0.debug.js" target="Scripts\knockout-2.2.0.debug.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\knockout-2.2.0.js" target="Scripts\knockout-2.2.0.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Scripts\_references.js" target="Scripts\_references.js" />
+    <file src="F:\Hello_World\SourceCode\Website\Web.config" target="Web.config" />
+    <file src="F:\Hello_World\SourceCode\Website\Web.Debug.config" target="Web.Debug.config" />
+    <file src="F:\Hello_World\SourceCode\Website\Web.Release.config" target="Web.Release.config" />
+    <file src="F:\Hello_World\SourceCode\Website\Views\Web.config" target="Views\Web.config" />
+    <file src="F:\Hello_World\SourceCode\Website\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="F:\Hello_World\SourceCode\Website\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="F:\Hello_World\SourceCode\Website\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Website.dll.config" target="bin\Website.dll.config" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Website.dll" target="bin\Website.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Website.pdb" target="bin\Website.pdb" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll" target="bin\Microsoft.Web.Mvc.FixedDisplayModes.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Net.Http.Formatting.dll" target="bin\System.Net.Http.Formatting.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Http.dll" target="bin\System.Web.Http.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Http.WebHost.dll" target="bin\System.Web.Http.WebHost.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Providers.dll" target="bin\System.Web.Providers.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\EntityFramework.xml" target="bin\EntityFramework.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Net.Http.Formatting.xml" target="bin\System.Net.Http.Formatting.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Http.xml" target="bin\System.Web.Http.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Http.WebHost.xml" target="bin\System.Web.Http.WebHost.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="F:\Hello_World\SourceCode\Website\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+  </files>
+</package>
