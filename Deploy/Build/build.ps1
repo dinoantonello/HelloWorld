@@ -1,9 +1,13 @@
 properties {
-	$BaseDirectory = "F:\Hello_World"
+	
+	 $BaseDirectory = Resolve-Path "..\..\"
    $SolutionFile = "$BaseDirectory\SourceCode\Hello_World.sln"
    $ReleasePackageDirectory = "$BaseDirectory\Deploy\_release"
    $WebProjectDirectory = "$BaseDirectory\SourceCode\Website\"
    $WebProjectFile = "$BaseDirectory\SourceCode\Website\Website.csproj"
+   
+   $DatabaseProjectFile = "$BaseDirectory\SourceCode\Database\Database.sqlproj"
+
 }
 
 task default -depends Init, build, UpdateReleaseNumber, package
@@ -43,4 +47,7 @@ task package {
 	mkdir $ReleasePackageDirectory
 
 	exec { msbuild $WebProjectFile /p:Configuration=Release  /p:RunOctoPack=true  /p:OctoPackPublishPackageToFileShare=$ReleasePackageDirectory /p:VisualStudioRelease=12.0  /p:OctoPackPackageVersion=$ReleaseNumber }	
+	
+	exec { msbuild $DatabaseProjectFile /p:Configuration=Release  /p:RunOctoPack=true  /p:OctoPackPublishPackageToFileShare=$ReleasePackageDirectory /p:VisualStudioRelease=12.0  /p:OctoPackPackageVersion=$ReleaseNumber }	
+	
 }
