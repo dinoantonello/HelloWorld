@@ -1,0 +1,19 @@
+<package>
+  <metadata>
+    <id>Database</id>
+    <version>0.0.0.0</version>
+    <authors>dinoantonello</authors>
+    <owners>dinoantonello</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Database deployment package, built on 11/05/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Working\Hello_World\SourceCode\Database\bin\Release\Database.dacpac" target="Database.dacpac" />
+    <file src="C:\Working\Hello_World\SourceCode\Database\obj\Release\Model.xml" target="obj\Release\Model.xml" />
+    <file src="C:\Working\Hello_World\SourceCode\Database\bin\Release\Database.dll" target="Database.dll" />
+    <file src="C:\Working\Hello_World\SourceCode\Database\bin\Release\Database.pdb" target="Database.pdb" />
+  </files>
+</package>

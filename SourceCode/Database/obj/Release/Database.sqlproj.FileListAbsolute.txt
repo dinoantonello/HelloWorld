@@ -1,0 +1,10 @@
+C:\Working\Hello_World\SourceCode\Database\bin\Release\Database.dacpac
+C:\Working\Hello_World\SourceCode\Database\bin\Release\Database.dll
+C:\Working\Hello_World\SourceCode\Database\bin\Release\Database.pdb
+C:\Working\Hello_World\SourceCode\Database\obj\Release\Model.xml
+C:\Working\Hello_World\SourceCode\Database\obj\Release\refactor.xml
+C:\Working\Hello_World\SourceCode\Database\obj\Release\postdeploy.sql
+C:\Working\Hello_World\SourceCode\Database\obj\Release\predeploy.sql
+C:\Working\Hello_World\SourceCode\Database\obj\Release\Database.dll
+C:\Working\Hello_World\SourceCode\Database\obj\Release\Database.pdb
+C:\Working\Hello_World\SourceCode\Database\obj\Release\Database.sqlprojResolveAssemblyReference.cache

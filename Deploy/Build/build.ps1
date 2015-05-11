@@ -1,6 +1,6 @@
 properties {
 	
-	 $BaseDirectory = Resolve-Path "..\..\"
+	$BaseDirectory = Resolve-Path "..\..\"
    $SolutionFile = "$BaseDirectory\SourceCode\Hello_World.sln"
    $ReleasePackageDirectory = "$BaseDirectory\Deploy\_release"
    $WebProjectDirectory = "$BaseDirectory\SourceCode\Website\"
